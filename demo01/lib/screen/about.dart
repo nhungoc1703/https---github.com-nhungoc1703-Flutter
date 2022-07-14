@@ -103,6 +103,7 @@ class _AboutState extends State<About> {
                       color: Colors.black,
                       size: 60.0,
                     ),
+                    //change
                   ),
                 ),
               ]),
